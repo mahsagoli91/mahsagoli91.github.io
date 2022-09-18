@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/MMA_practicum
 venue: "University of Toronto, Rotman School of Management"
-date: "2020 - Present"
+date: 2020-01-01
 location: "Toronto, Canada"
 ---
 
