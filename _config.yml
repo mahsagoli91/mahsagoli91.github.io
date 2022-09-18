@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mahsa Hosseini"
+title                    : "Acadmic Website"
 title_separator          : "-"
-name                     : &name "Acadmic Website"
+name                     : &name "Mahsa Hosseini"
 description              : &description "personal description"
 url                      : https://mahsagoli91.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
