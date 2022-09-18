@@ -1,16 +1,16 @@
 ---
-title: "Teaching experience 1"
+title: "Project Coach, Rotman Master of Management Analytics"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: /teaching/MMA_practicum
+venue: "University of Toronto, Rotman School of Management"
+date: "2020 - Present"
+location: "Toronto, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Guide student teams working on real-world analytical problems in collaboration with industry partners:
 
-Heading 1
+hello
 ======
 
 Heading 2
