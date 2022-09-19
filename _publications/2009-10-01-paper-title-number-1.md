@@ -2,9 +2,9 @@
 title: "Dynamic Relocations in Car-Sharing Networks"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Major revision at second round of review at Operations Research'
-date:
-venue: 
+excerpt: 
+date: 2021-09-01
+venue:  'Major revision at second round of review at Operations Research'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3774324'
 citation: 'Hosseini, M., Milner, J., & Romero, G. (2021). Dynamic relocations in car-sharing networks. Rotman School of Management Working Paper, (3774324).'
 ---
