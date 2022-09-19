@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Dynamic Relocations in Car-Sharing Networks"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Mahsa Hosseini, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'Major revision at second round of review at Operations Research'
+paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3774324'
+citation: 'Hosseini, M., Milner, J., & Romero, G. (2021). Dynamic relocations in car-sharing networks. Rotman School of Management Working Paper, (3774324).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+We propose a novel dynamic car relocation policy for a car-sharing network with centralized control and uncertain, unbalanced demand. The policy is derived from a reformulation of the linear programming fluid model approximation of the dynamic problem. We project the full-dimensional fluid approximation onto the lower-dimensional space of relocation decisions only. This projection results in a characterization of the problem as n+1 linear programs, where n is the number of nodes in the network. The reformulation uncovers structural properties that are interpretable using absorbing Markov chain concepts and allows us to write the gradient with respect to the relocation decisions in closed form. Our policy exploits these gradients to make dynamic car relocation decisions. We provide extensive numerical results on hundreds of random networks where our dynamic car relocation policy consistently outperforms the standard static policy. Our policy reduces the optimality gap in steady-state by more than 23\% on average. Also, in a short-term, time-varying setting, the lookahead version of our dynamic policy outperforms the static lookahead policy on average to a greater degree than that observed in the time-homogeneous tests.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3774324)
 
-Recommended citation: Mahsa Hosseini, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Hosseini, M., Milner, J., & Romero, G. (2021). Dynamic relocations in car-sharing networks. Rotman School of Management Working Paper, (3774324).
