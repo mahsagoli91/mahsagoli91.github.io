@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 Education
 ======
 * Ph.D. in Operations Managemen, **Rotman School of Management, University of Toronto**, 2017-2023(expected)\
@@ -18,26 +20,40 @@ Education
 **Thesis**: An Inventory Model for Perishable Products\
 **Advisor**: Dr. Alireza Hajji
 
-Work experience
+Professional Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Market Segmentation Planning Specialist**, 2016-2017
+  * Irancell (One of The Four Mobile Phone Network Operators of Iran)
+  * Duties included: I was responsible for analyzing customer segments data to generate different market plans
+to maintain subscribers segments along with projecting gross revenue in every revenue
+line.
+* **MIS and Business intelligence specialist**, 2014-2015
+  * Tadbir Idepardazan 5040
+  * Duties included: I was responsible for analyzing the company wide data, visualizing, and consulting the
+C-suit about implications.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+Professional Service
+======
+  * Session chair at **MSOM** Annual Conference 2022
+  * Session chair at **INFROMS** Annual Meeting 2021
+  * Session chair at **CORS** 2021
+  * Rotman Graduate Student Union(GSU) representative, 2019-2020
+
+Additional Activities
+======
+  * Mentor at Rotman PhD Mentorship program
+  * Mentor at IAUT mentorship program
+  * Karate Shotokan WSKF black belt
+  * Captain of Rotman volleyball team (Second place in recreational group)
+  * Volunteer at Toronto Humane Society
+  * Digital/pencil drawings
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming**:
+  * Python, SQL, C#, R, Latex
+* **SKILLS Operations Research**: 
+  * Gurobi, CPLEX, PuLP
 
 Publications
 ======
