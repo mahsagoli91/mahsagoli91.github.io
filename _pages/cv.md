@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Industrial Engineering, Sharif University of Technology, 2009-2013
+* Ph.D. in Operations Managemen, Rotman School of Management, University of Toronto, 2017-2023(expected)
+Thesis Committee: Joseph Milner, Gonzalo Romero, Azarkhsh Malekian
 * Master of Business Administration (MBA), Sharif University of Technology, 2013-2017
-* Ph.D. in Operations Managemen, Rotman School of Management, University of Toronto, Toronto, 2023(expected)
+* B.Sc. in Industrial Engineering, Sharif University of Technology, 2009-2013
+Thesis: An Inventory Model for Perishable Products
+Advisor: Dr. Alireza Hajji
 
 Work experience
 ======
