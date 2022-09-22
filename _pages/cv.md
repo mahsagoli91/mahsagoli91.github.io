@@ -20,6 +20,12 @@ Education
 **Thesis**: An Inventory Model for Perishable Products\
 **Advisor**: Dr. Alireza Hajji
 
+Honors & Awards
+======
+  * Fellowship of *Rotman School of Management* for Ph.D. program, 2017-2023
+  * *University of Toronto* Doctoral Completion Award, 2022-2023
+  * Honorary Admission for Graduate Study at Sharif University of Technology, 2013
+
 Professional Experience
 ======
 * **Market Segmentation Planning Specialist**, 2016-2017
