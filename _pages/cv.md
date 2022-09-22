@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Industrial Engineering, Sharif University of Technology, 2009-2013
+* Master of Business Administration (MBA), Sharif University of Technology, 2013-2017
+* Ph.D. in Operations Managemen, Rotman School of Management, University of Toronto, Toronto, 2023(expected)
 
 Work experience
 ======
