@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+type: "Instructed the discussion classes. Designed and graded assignments and projects."
+permalink: /teaching/2015-spring-teaching-2
+venue: "Rotman School of Management, University of Toronto"
+date: 2018-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* RSM8414 (MMA) – **Tools for Probabilistic Models and Prescriptive Analytics**, Fall 2021
+* RSM8423 (MMA) – **Optimizing Supply Chain Management and Logistics**, Spring 2021
+* RSM2408 (MBA) – **Modeling and Optimization for Decision Making**, Fall 2020, Fall 2021
+* RSM2405 (MBA) – **Supply Chain Management**, Fall 2021
+* RSM2406 (MBA) – **Operations Management Strategy**, Winter 2021
+* RSM 270 – **Operations Management**, From Fall 2018 to present.
