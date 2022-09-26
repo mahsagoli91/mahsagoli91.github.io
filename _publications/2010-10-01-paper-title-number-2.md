@@ -3,6 +3,7 @@ title: "Diverse Assortments in Online Recommendations"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 
+date: 2022-09-01
 venue: Manuscript in Preparation
 paperurl: 
 citation: Hosseini, M., Baron, O., Sekar, Sh., Malekian, A.
