@@ -73,6 +73,19 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Professional Services
 ======
-* Currently signed in to 43 different slack teams
+* Session chair at MSOM Annual Conference 2022
+* Session chair at INFROMS Annual Meeting 2021
+* Session chair at CORS 2021
+* Rotman Graduate Student Union(GSU) representative, 2019-2020
+
+Professional Services
+======
+* Mentor at Rotman PhD Mentorship program
+* Mentor at IAUT mentorship program
+* Karate Shotokan WSKF black belt
+* Captain of Rotman volleyball team (Second place in recreational group)
+* Volunteer at Toronto Humane Society
+
+
