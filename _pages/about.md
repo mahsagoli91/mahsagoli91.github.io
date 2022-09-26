@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello/Bonjour/سلام!"
+title: "Mahsa Hosseini"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+**Hello/Bonjour/سلام!**
 
 I am an Operations management Ph.D. candidate at [Rotman School of Management](https://www.rotman.utoronto.ca/), [University of Toronto](https://www.utoronto.ca/). My research focuses on problems in operations management, specifically service operations, online platforms, sharing economy, and diversity and fairness. As a researcher, I worked on challenging dynamic programs such as dynamic programs in networks and dynamic programs with memory in service operations. My research agenda builds on my past work and attempts to develop full-scale models to capture the world's true nature and design tractable robust algorithms to optimize real-time decision-making under uncertainty.
 

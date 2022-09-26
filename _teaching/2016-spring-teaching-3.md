@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant, Management and Economics Departmen"
+title: "Teaching Assistant, Management and Economics Department"
 collection: teaching
 type: "Instructed the discussion classes. Designed and graded assignments and projects."
 permalink: /teaching/2016-spring-teaching-3
