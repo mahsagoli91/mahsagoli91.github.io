@@ -4,7 +4,6 @@ collection: teaching
 type: "Instructed the discussion classes. Designed and graded assignments and projects."
 permalink: /teaching/2015-spring-teaching-2
 venue: "Rotman School of Management, University of Toronto"
-date: 2018-01-01
 location: "City, Country"
 ---
 
