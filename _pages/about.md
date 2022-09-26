@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello/Bonjour/سلام!"
+title: "Mahsa Hosseini"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
