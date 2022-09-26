@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Mahsa Hosseini"
   avatar           : "profile.png"
-  bio              : "PhD Candidate at Rotman School of Management \n On the job market 2022-2023"
+  bio              : "PhD Candidate at Rotman School of Management \n On the job market 2022-2023 \n"
   location         : "Toronto, ON"
-  employer         : "University of Toronto"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?hl=en&user=sGQigLsAAAAJ"
   email            :
