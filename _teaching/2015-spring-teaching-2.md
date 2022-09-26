@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant, Rotman School of Management"
 collection: teaching
 type: "Instructed the discussion classes. Designed and graded assignments and projects."
 permalink: /teaching/2015-spring-teaching-2

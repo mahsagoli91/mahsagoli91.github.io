@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant, Industrial Engineering Department"
 collection: teaching
 type: "Instructed the discussion classes. Designed and graded assignments and projects."
 permalink: /teaching/2017-spring-teaching-4
