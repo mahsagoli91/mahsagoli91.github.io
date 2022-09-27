@@ -15,7 +15,10 @@ Guide student teams working on real-world analytical problems in collaboration w
  * Deriving data-based insights and presenting solutions to the managerial problem
 Host Companies: Canadian Tire, Unity Health, Veeva, Government of Ontario, Teranet,
 Scotia Bank, TD, BMO
+
+
 **Other courses**
+
 * RSM8414 (MMA) – **Tools for Probabilistic Models and Prescriptive Analytics**, Fall 2021
 * RSM8423 (MMA) – **Optimizing Supply Chain Management and Logistics**, Spring 2021
 * RSM2408 (MBA) – **Modeling and Optimization for Decision Making**, Fall 2020, Fall 2021
