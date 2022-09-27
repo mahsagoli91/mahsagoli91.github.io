@@ -8,11 +8,11 @@ location: "City, Country"
 ---
 
 ---
-* **Project Coach, Rotman Master of Management Analytics**
+* **Project Coach, Rotman Master of Management Analytics**\
  Guide student teams working on real-world analytical problems in collaboration with industry partners:
   * Understanding the managerial problem and developing the analytical model
   * Designing an analytical data set and developing a model
-  * Deriving data-based insights and presenting solutions to the managerial problem
+  * Deriving data-based insights and presenting solutions to the managerial problem\
  Host Companies: Canadian Tire, Unity Health, Veeva, Government of Ontario, Teranet,
  Scotia Bank, TD, BMO
 * **Other courses**
