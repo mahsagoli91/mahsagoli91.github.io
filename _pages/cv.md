@@ -40,8 +40,7 @@ C-suit about implications.
 
 Professional Service
 ======
-  * Session chair at **MSOM** Annual Conference 2022
-  * Session chair at **INFROMS** Annual Meeting 2021
+  * Session chair at **INFORMS** Annual Meeting 2021
   * Session chair at **CORS** 2021
   * Rotman Graduate Student Union(GSU) representative, 2019-2020
 

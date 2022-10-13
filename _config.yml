@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Acadamic Website"
+title                    : "Academic Website"
 title_separator          : "-"
 name                     : &name "Mahsa Hosseini"
 description              : &description "personal description"
