@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my work on [Google Scholar](https://scholar.google.ca/citations?hl=en&user=sGQigLsAAAAJ).
+You can also find my work on [Google Scholar](https://scholar.google.ca/citations?hl=en&user=sGQigLsAAAAJ) and [ORCID](https://orcid.org/0000-0003-4106-7167).
 
 ## Journal Publications
 
