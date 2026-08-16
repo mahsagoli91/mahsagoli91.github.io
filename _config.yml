@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Academic Website"
+title                    : "Mahsa Hosseini"
 title_separator          : "-"
 name                     : &name "Mahsa Hosseini"
-description              : &description "personal description"
-url                      : https://mahsagoli91.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Assistant Professor of Operations Management at the Odette School of Business, University of Windsor"
+url                      : https://www.mahsa-hosseini.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "mahsagoli91/mahsagoli91.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Mahsa Hosseini"
   avatar           : "profile.png"
-  bio              : "PhD Candidate at Rotman School of Management \n\n On the 2022-2023 academic job market \n"
-  location         : "Toronto, ON"
-  employer         : 
+  bio              : "Assistant Professor of Operations Management\n\nOdette School of Business, University of Windsor"
+  location         : "Windsor, ON"
+  employer         : "University of Windsor"
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?hl=en&user=sGQigLsAAAAJ"
   email            :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "mahsagoli91"
   google_plus      :
   keybase          :
   instagram        :

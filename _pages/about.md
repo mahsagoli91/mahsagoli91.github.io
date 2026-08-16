@@ -3,15 +3,23 @@ permalink: /
 title: "Mahsa Hosseini"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
 **Hello/Bonjour/سلام!**
 
-I am an Operations management Ph.D. candidate at [Rotman School of Management](https://www.rotman.utoronto.ca/), [University of Toronto](https://www.utoronto.ca/). My research focuses on problems in operations management, specifically service operations, online platforms, sharing economy, and diversity and fairness. As a researcher, I worked on challenging dynamic programs such as dynamic programs in networks and dynamic programs with memory in service operations. My research agenda builds on my past work and attempts to develop full-scale models to capture the world's true nature and design tractable robust algorithms to optimize real-time decision-making under uncertainty.
+I am an **Assistant Professor of Operations Management** at the [Odette School of Business](https://www.uwindsor.ca/business/), [University of Windsor](https://www.uwindsor.ca/).
 
-I have been honored to work with [Joseph Milner](https://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Milner), [Opher Baron](https://www.rotman.utoronto.ca/facultyandresearch/faculty/facultybios/baron), [Gonzalo Romero](https://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Romero), [Shreyas Sekar](https://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Sekar), and [Azarakhsh Malekian](https://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Malekian.aspx). 
+My research focuses on **dynamic decision-making and resource allocation**: how organizations should make operational decisions over time when what they do today affects the conditions, opportunities, and outcomes they face tomorrow.
 
-Before joining Rotman, I received my MBA and BSc in Industrial engineering from [Sharif University of technology](https://en.sharif.edu/). 
+I study these questions across a range of settings, including **online platforms and the sharing economy, workforce and hybrid work arrangements, service and healthcare operations, and supply chains and logistics**. Many of the problems I study involve allocating limited resources, scheduling people or activities, matching supply and demand, or designing operational policies in systems where participants are heterogeneous and interconnected. In some of my work, I also study how objectives such as **fairness and diversity** can be incorporated alongside traditional measures of operational performance.
+
+Methodologically, my work primarily uses **optimization and dynamic decision models**, including dynamic programming and Markov decision processes, together with **network models, fluid approximations, and data analysis**. I use these approaches to understand complex operational problems and develop practical decision rules and managerial insights. More recently, I have also become interested in using **AI agents** to study heterogeneous and adaptive behaviour in operational settings.
+
+## Collaboration
+
+I am interested in collaborating with companies and organizations facing problems related to **resource allocation, capacity planning, workforce scheduling, service delivery, healthcare operations, platform and marketplace design, supply-chain planning, logistics, and network optimization**.
+
+I am particularly interested in projects that begin with a real operational challenge and then determine how it can be **modeled, analyzed, optimized, simulated, or studied using available data**. 
