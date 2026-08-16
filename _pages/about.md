@@ -10,7 +10,7 @@ redirect_from:
 
 **Hello/Bonjour/سلام!**
 
-I am an Assistant Professor of Operations Management at the [Odette School of Business](https://www.uwindsor.ca/business/), [University of Windsor](https://www.uwindsor.ca/).
+I am an Assistant Professor of Operations Management at the [Odette School of Business](https://www.uwindsor.ca/business/), [University of Windsor](https://www.uwindsor.ca/) ([Faculty Profile](https://www.uwindsor.ca/business/795/mahsa-hosseini-bio)).
 
 My research focuses on dynamic decision-making and resource allocation: how organizations should make operational decisions over time when what they do today affects the conditions, opportunities, and outcomes they face tomorrow.
 

@@ -11,6 +11,7 @@ redirect_from:
 
 **Assistant Professor of Operations Management**  
 Odette School of Business, University of Windsor  
+[Faculty Profile](https://www.uwindsor.ca/business/795/mahsa-hosseini-bio)  
 2023–Present
 
 ## Education
