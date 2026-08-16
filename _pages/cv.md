@@ -34,7 +34,7 @@ Dynamic decision-making and resource allocation; online platforms and the sharin
 
 ## Journal Publications
 
-**Hosseini, M.**, Milner, J., & Romero, G.  
+**Hosseini, M.**, [Milner, J.](https://discover.research.utoronto.ca/6410-joseph-milner), & [Romero, G.](https://discover.research.utoronto.ca/17094-gonzalo-romero)  
 “Dynamic Relocations in Car-Sharing Networks.”  
 *Operations Research*, 73(4), 2010–2025.  
 [DOI: 10.1287/opre.2021.0062](https://doi.org/10.1287/opre.2021.0062)
@@ -42,7 +42,7 @@ Dynamic decision-making and resource allocation; online platforms and the sharin
 ## Working Papers & Research in Progress
 
 **Diverse Assortments in Online Recommendations**  
-with Opher Baron, Shreyas Sekar, and Azarakhsh Malekian
+with [Opher Baron](https://discover.research.utoronto.ca/6620-opher-baron), [Shreyas Sekar](https://sekarshre.github.io/), and [Azarakhsh Malekian](https://azarakhshm.github.io/)
 
 **From Traffic Jams to Zoom Calls: A Hybrid Work Model**
 
