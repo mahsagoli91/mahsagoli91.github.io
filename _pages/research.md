@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research examines **dynamic decision-making and resource allocation**: how operational decisions should be made when actions taken today change the state of the system and therefore affect future opportunities, constraints, and outcomes.
+My research examines dynamic decision-making and resource allocation: how operational decisions should be made when actions taken today change the state of the system and therefore affect future opportunities, constraints, and outcomes.
 
 ## Research Areas
 
@@ -31,9 +31,9 @@ In several settings, I study how objectives such as fairness and diversity inter
 
 ## Methods
 
-My research primarily uses **optimization, dynamic programming, Markov decision processes, network models, and fluid approximations**, complemented by simulation and data analysis.
+My research primarily uses optimization, dynamic programming, Markov decision processes, network models, and fluid approximations, complemented by simulation and data analysis.
 
-I am also exploring the use of **AI agents** as a research methodology for studying heterogeneous, adaptive, and information-sharing behaviour in operational systems.
+I am also exploring the use of AI agents as a research methodology for studying heterogeneous, adaptive, and information-sharing behaviour in operational systems.
 
 ## Industry Collaboration
 
