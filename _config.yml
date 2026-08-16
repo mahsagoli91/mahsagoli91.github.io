@@ -84,12 +84,12 @@ author:
   avatar           : "profile.png"
   bio              : "Assistant Professor of Operations Management\n\nOdette School of Business, University of Windsor"
   location         : 
-  employer         : "University of Windsor"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?hl=en&user=sGQigLsAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://www.uwindsor.ca/business/795/mahsa-hosseini-bio"
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
